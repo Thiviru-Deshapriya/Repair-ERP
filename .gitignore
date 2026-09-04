@@ -1,0 +1,25 @@
+# Environment Variables & Secrets
+.env
+.env.local
+*.env
+
+# Dependencies (Node, Python, etc.)
+node_modules/
+__pycache__/
+*.pyc
+
+# Build outputs and distributions
+dist/
+build/
+out/
+*.egg-info/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
